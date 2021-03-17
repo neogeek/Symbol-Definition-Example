@@ -1,10 +1,11 @@
 {
   "dependencies": {
     "com.example.package": {
-      "version": "file:../upm",
+      "version": "https://github.com/neogeek/Symbol-Definition-Example.git#upm",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "e4dba20a3e860cc79f3c3e8b3a26753a60eec6ed"
     },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
